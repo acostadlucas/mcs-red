@@ -13,7 +13,8 @@ dependencies = [
     "matplotlib (>=3.10.3,<4.0.0)",
     "seaborn (>=0.13.2,<0.14.0)",
     "scipy (>=1.16.1,<2.0.0)",
-    "nbimporter (>=0.3.4,<0.4.0)"
+    "nbimporter (>=0.3.4,<0.4.0)",
+    "pyarrow (>=21.0.0,<22.0.0)"
 ]
 
 
