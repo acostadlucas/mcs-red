@@ -80,4 +80,6 @@ dmypy.json
 # ---- VisualStudioCode ----
 .vscode/
 .history/
-*.code-workspace
+*.code-workspace  
+Rwanda/
+Turkmenistan/
