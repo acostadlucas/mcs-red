@@ -81,5 +81,11 @@ dmypy.json
 .vscode/
 .history/
 *.code-workspace  
+
+# ---- directories ----
 Rwanda/
 Turkmenistan/
+/data/
+
+# ---- environment variables ----
+.env
