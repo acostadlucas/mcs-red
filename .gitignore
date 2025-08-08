@@ -86,6 +86,7 @@ dmypy.json
 Rwanda/
 Turkmenistan/
 /data/
+/plots/
 
 # ---- environment variables ----
 .env
