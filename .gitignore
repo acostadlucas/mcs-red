@@ -76,6 +76,7 @@ dmypy.json
 
 # ---- JupyterNotebooks ----
 .ipynb_checkpoints
+*leviosa*.ipynb
 
 # ---- VisualStudioCode ----
 .vscode/
