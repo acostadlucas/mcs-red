@@ -1,0 +1,39 @@
+primero obtuve lista de los paises que cuentan con el indice de precio de casas > hecho
+
+segundo voy a completar la extraccion de todos los indices de precios de casa de cada pais > hecho
+
+tercero voy a probar si funciona el tema este de extraer imagenes > hecho
+
+cuarto voy a ver de desacargar los otros datos que son dispuestos quarterly para ello se utiliza el resultado del primer paso, obtener una lista de nombre de los paises que nos importan > 
+ya gdp
+ya investmen_growth
+ya cpi
+ya private credit
+falta demas, ver este ultimo private credit, se implemento un codigo por partes que permite menos errores a la hora de unir dos df, siempre imprimir head de cada df, primero del master luego de Paraguay para ver si tienen mismos index, tener en cuenta para mas adelante que como hay varios meses en el Q1 estos se deben unificar
+ya unemployment rate
+ya foreign exchange reserves
+ya government expenditure
+
+quinto voy a ver de descargar los otros datos en forma de imagenes de los paises que nos interesan esto provienen del resultado del primer paso
+
+images
+ya labor force
+ya percent agricultural land
+ya livestock production index
+ya urban population
+
+YA!!!
+parece ser que encontramos nuestro "leviosa" para los prompts al modelo de LLM - CONFIRMADO
+la siguiente idea es confirmar esta hipotesis - CONFIRMADO
+de confirmarse dicha hipotesis ver que conviene mas, utilizar dicho prompt o hacer la tarea menos compleja, separar en dos cada imagen de las visualizaciones - MEJOR ALGORITMO QUE FUNCIONA QUE NUEVO ALGORITMO POR CODIFICAR
+
+CONTINUAR ACA!!!
+ya obtuve todos los paths a cada imagen de tal manera a utilizar sobre ellos el modelo de LLM para extraer la info
+hasta ahora estamos consiguiendo extraer los valores de la imagenes pero vienen en formato markdown
+ver la forma de limpiar este formato para luego convertirlo a un diccionario comun de tal manera a hacer un dataframe
+para ello
+	eliminar espacios en blanco
+	eliminar asteriscos
+	eliminar nuevas lineas \n
+	eliminar todo lo que esta antes del primer colon ":"
+
