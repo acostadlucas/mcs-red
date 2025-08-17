@@ -42,3 +42,17 @@ Any cleanup tasks, refactoring, or documentation updates?
 Link to related issues, commits, or files:
 - Related issue: #123
 - Notebook: `eda_house_prices.ipynb`
+
+## For close this issues
+### Journal Entry Closed
+
+This development phase is complete. All planned tasks and observations have been addressed:
+
+- [x] Completed all listed steps
+- [x] Documented insights and technical notes
+- [x] Migrated logs and outputs as needed
+
+Next phase will continue in: #<next-issue-number>  
+(Or: “Next journal entry will focus on [brief description]”)
+
+Closing this issue to mark the milestone and keep the journal modular.
