@@ -89,6 +89,7 @@ Turkmenistan/
 /data/
 /plots/
 /parquet_exports/
+/plots_2/
 
 # ---- environment variables ----
 .env
